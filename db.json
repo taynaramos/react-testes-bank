@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 100
+    "saldo": 990
   },
   "transacoes": [
     {
@@ -608,6 +608,12 @@
       "valor": "200",
       "data": "29/10/2021",
       "id": 101
+    },
+    {
+      "transacao": "deposito",
+      "valor": "200",
+      "data": "30/06/2022",
+      "id": 102
     }
   ]
 }
